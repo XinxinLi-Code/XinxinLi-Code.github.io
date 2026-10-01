@@ -1,0 +1,62 @@
+primary_name: "Xinxin Li"
+secondary_name: ""
+navbar_name: "Xinxin Li"
+
+positions:
+- name: East China Normal University
+
+
+email: "51265500102@stu.ecnu.edu.cn"
+# cv_link: link-to-your-cv-file
+gscholar: 51hC7YMAAAAJ&hl
+github: XinxinLi-Code
+# twitter: your_twitter_id  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/photos/wechatqrcode.png
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    Hi! I am <strong>Xinxin Li</strong>, a Ph.D. student in Applied Mathematics at
+    <strong>East China Normal University</strong>.
+    My research focuses on <strong>AI for scientific discovery</strong>, especially
+    <strong>symbolic regression</strong>, <strong>partial differential equation (PDE) discovery</strong>,
+    and <strong>symmetry discovery</strong>.
+  </p>
+
+  <p>
+    I develop methods that combine neural networks with symbolic representations to uncover
+    interpretable mathematical laws from data. My recent work explores compact symbolic models
+    with Transformer-guided structure search (UniSymNet), the discovery of governing PDEs from
+    sparse and noisy observations using weak formulations (Weak-PDE-Net), and adaptive symbolic
+    libraries for discovering explicit Lie symmetries (LieDiscover).
+  </p>
+
+portrait_url: /assets/images/photos/portrait.jpg
+portrait_caption: >-
+  profile image.
+
+education:
+- name: East China Normal University
+  logo: /assets/images/badges/ecnu_seal.png
+  position: Ph.D. student in Applied Mathematics
+  date: 2023.09 - present
+
+- name: Donghua University
+  logo: /assets/images/badges/dhu_seal.png
+  logo_class: education-logo-dhu
+  position: Bachelor's degree in Applied Mathematics
+  date: 2019.09 - 2023.06
+
+
+experience:
+- name: Shanghai Zhangjiang Institute of Mathematics
+  position: Intern
+  date: 2024.09 - present
+
+awards:
+- name: Shanghai Outstanding Graduate
+  date: 2023
