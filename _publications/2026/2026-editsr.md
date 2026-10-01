@@ -1,7 +1,7 @@
 ---
 title: "EditSR: Enhancing Neural Symbolic Regression via Edit-based Rectification"
 date: 2026-06-06 00:00:00 +0800
-selected: true
+selected: false
 cover: /image/EditSR.png
 pub: "arXiv preprint, arXiv:2606.07915"
 pub_date: "2026"

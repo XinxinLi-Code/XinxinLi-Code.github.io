@@ -3,7 +3,7 @@ title: "ViSymRe: Vision multimodal symbolic regression"
 # Online publication date recorded in PubMed (PMID: 42035569).
 # The journal issue is October 2026; use the online date for sorting.
 date: 2026-04-21 00:00:00 +0800
-selected: true
+selected: false
 cover: /image/ViSymRe.png
 pub: "Neural Networks"
 pub_post: ", 202, 109017."
