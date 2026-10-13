@@ -268,7 +268,7 @@ Show news:
 
 ## Current publications and asset sources
 
-- [EditSR](https://arxiv.org/abs/2606.07915): arXiv preprint, submitted June 6, 2026.
+- [EditSR](https://doi.org/10.1016/j.neucom.2026.135364): Neurocomputing, article 135364 (October 2026), verified against [Crossref](https://api.crossref.org/works/10.1016/j.neucom.2026.135364). Crossref supplies the publication month without a day, so October 1 is used only for sorting. The [arXiv preprint](https://arxiv.org/abs/2606.07915) remains linked.
 - [ViSymRe](https://www.sciencedirect.com/science/article/pii/S0893608026004776): Neural Networks, volume 202, article 109017 (2026). Sorting uses the April 21, 2026 online publication date recorded in [PubMed](https://pubmed.ncbi.nlm.nih.gov/42035569/); the journal issue is October 2026.
 - [LieDiscover](https://arxiv.org/abs/2609.33663): arXiv preprint, submitted September 27, 2026.
 - [Weak-PDE-Net](https://arxiv.org/abs/2603.22951): arXiv preprint, submitted March 24, 2026.
