@@ -23,7 +23,5 @@ authors:
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0021999126008648
   DOI: https://doi.org/10.1016/j.jcp.2026.115516
-  arXiv: https://arxiv.org/abs/2603.22951
-  arXiv PDF: https://arxiv.org/pdf/2603.22951
   Code: https://github.com/XinxinLi-Code/Weak-PDE-Net
 ---
